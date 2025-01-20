@@ -16,4 +16,3 @@ Most Used Languages
 Github Activity Graph
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CJL196&theme=react" /> </div>
-
