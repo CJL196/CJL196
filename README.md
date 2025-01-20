@@ -17,4 +17,8 @@ Github Activity Graph
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CJL196&theme=react" /> </div>
 
-<img src="https://raw.githubusercontent.com/CJL196/CJL196/output/github-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
