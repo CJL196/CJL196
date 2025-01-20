@@ -7,7 +7,7 @@ CJL is currently a undergraduate student in School of Computer Science and Engin
 - email: [chenjlin68@mail2.sysu.edu.cn](mailto:chenjlin68@mail2.sysu.edu.cn)
 - blog: [https://blog.algorithmpark.xyz](https://blog.algorithmpark.xyz/)
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="assets/hr.gif" />
 
 Most Used Languages
 
@@ -16,3 +16,9 @@ Most Used Languages
 Github Activity Graph
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CJL196&theme=react" /> </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
