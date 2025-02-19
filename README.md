@@ -4,10 +4,12 @@
 
 CJL is currently a undergraduate student in School of Computer Science and Engineering, Sun Yat-sen University.
 
+My research interests include action quality assessment (AQA), image & video generation using diffusion models, privacy-preserving action recognition and talking face generation.
+
 - email: [chenjlin68@mail2.sysu.edu.cn](mailto:chenjlin68@mail2.sysu.edu.cn)
 - blog: [https://blog.algorithmpark.xyz](https://blog.algorithmpark.xyz/)
 
-<img width="200%" src="assets/hr.gif" />
+<!-- <img width="200%" src="assets/hr.gif" /> -->
 
 <!-- Most Used Languages -->
 
@@ -15,7 +17,7 @@ CJL is currently a undergraduate student in School of Computer Science and Engin
 
 <!-- Github Activity Graph -->
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CJL196&theme=react" /> </div>
+<!-- <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CJL196&theme=react" /> </div> -->
 
 <!--Contributions Graph--->
 
