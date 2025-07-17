@@ -2,7 +2,7 @@
 
 <h4 align="center">Life no stop, coding forever.</h4>
 
-CJL is currently a undergraduate student in School of Computer Science and Engineering, Sun Yat-sen University.
+CJL is currently an undergraduate student in School of Computer Science and Engineering, Sun Yat-sen University.
 
 My research interests lie primarily in the field of computer vision, with a focus on several specialized areas, including action quality assessment (AQA), temporal action segmentation, image and video generation using diffusion models, and privacy-preserving action recognition. I am driven by a desire to innovate, advancing the theoretical foundations of these fields and delivering impactful solutions that shape the future of technology and society.
 
