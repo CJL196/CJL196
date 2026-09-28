@@ -2,11 +2,11 @@
 
 <h4 align="center">Life no stop, coding forever.</h4>
 
-CJL is currently an undergraduate student in the School of Computer Science and Engineering at Sun Yat-sen University, and he will pursue his Master’s degree at Tsinghua Shenzhen International Graduate School starting in September 2026.
+CJL is currently a Master’s student at Tsinghua Shenzhen International Graduate School, Tsinghua University. He received his B.Eng. degree in Computer Science and Technology from the School of Computer Science and Engineering at Sun Yat-sen University.
 
-My research interests lie primarily in the field of computer vision, with a focus on several specialized areas, including action quality assessment (AQA), image and video generation, and multimodal large language models. I am driven by a desire to innovate, advancing the theoretical foundations of these fields and delivering impactful solutions that shape the future of technology and society.
+His research interests lie primarily in computer vision and artificial intelligence, with a focus on image and video generation, long-form video understanding, and large language models.
 
-- email: [chenjlin68@mail2.sysu.edu.cn](mailto:chenjlin68@mail2.sysu.edu.cn)
+- email: [chenjinglin26@mails.tsinghua.edu.cn](mailto:chenjinglin26@mails.tsinghua.edu.cn)
 - blog: [https://blog.algorithmpark.xyz](https://blog.algorithmpark.xyz/)
 
 <!-- <img width="200%" src="assets/hr.gif" /> -->
